@@ -6,12 +6,12 @@ Soul-FL is a **trust-minimized federated learning framework** that defends again
 
 Unlike existing defenses, Soul-FL treats **trust as a perishable resource** rather than a static credential.  It does so through three tightly integrated mechanisms:
 
-| Phase | Mechanism | What it prevents |
-|-------|-----------|-----------------|
-| **I**   | ZK-SNARK statistical eligibility anchors | Free-rider Sybils with no real data |
-| **II**  | Anchor-conditioned C-VAE gradient fingerprinting | Sleeper pivots & manifold-constrained attacks |
-| **III** | On-chain exponential trust decay (Soulbound Tokens) | Trust hoarding & lazy Sybils |
-| **IV**  | φ-squashed trust-weighted aggregation | Undue influence from high-trust adversaries |
+| Phase | Mechanism | 
+|-------|-----------|
+| **I**   | ZK-SNARK statistical eligibility anchors | 
+| **II**  | Anchor-conditioned C-VAE gradient fingerprinting | 
+| **III** | On-chain exponential trust decay (Soulbound Tokens) | 
+| **IV**  | φ-squashed trust-weighted aggregation | 
 
 ---
 
