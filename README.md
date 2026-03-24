@@ -10,8 +10,7 @@ Unlike existing defenses, Soul-FL treats **trust as a perishable resource** rath
 |-------|-----------|
 | **I**   | ZK-SNARK statistical eligibility anchors | 
 | **II**  | Anchor-conditioned C-VAE gradient fingerprinting | 
-| **III** | On-chain exponential trust decay (Soulbound Tokens) | 
-| **IV**  | φ-squashed trust-weighted aggregation | 
+| **III** | On-chain exponential trust decay (Soulbound Tokens) |  
 
 ---
 
