@@ -1,9 +1,4 @@
-# Soul-FL: Mitigating Sleeper Sybil Attacks in Federated Learning via Statistically Anchored Identities and Decaying Trust
-
 > **Paper:** *Soul-FL: Mitigating Sleeper Sybil Attacks in Federated Learning via Statistically Anchored Identities and Decaying Trust*
-> IEEE Transactions on Dependable and Secure Computing (under review)
-
----
 
 ## Overview
 
@@ -49,16 +44,24 @@ Soul-FL-Artifact/
 ├── scripts/
 │   └── deploy_and_test.js       # Hardhat deployment 
 │
+├── utils/
+│   └── metrics.py       
+│   └── plotting.py       
+│
 └── experiments/
     ├── checkpoints/
     └── logs/
+
 ```
 
 ---
+## ⚙️ Prerequisites & Installation
+
+**Hardware:** Standard CPU/GPU (consumer-grade). 
+**Software:** Python 3.8+, Node.js 14+ (for blockchain validation).
+
 
 ## Quick Start
-
-### Python Setup
 
 ```bash
 # install Python dependencies
@@ -114,4 +117,6 @@ npm run deploy
 
 ---
 
+## 📜 License & Citation
 
+Provided for academic peer review.
